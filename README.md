@@ -1,5 +1,5 @@
 ## Привет, меня зовут Евгения  👋
-  
+
 <div id="badges" >
    <a href="https://t.me/Evgenia_Lysova">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
@@ -13,5 +13,8 @@
   
 | Название проекта | Описание проекта |Стек |
 | ----------- | ----------- |----------- |
-| Ячейка 1    | Ячейка 2   |Ячейка 2   |
+| Проект 1 Анализ продуктовых метрик   | Ячейка 2   |Ячейка 2   |
 | Ячейка 3    | Ячейка 4   |Ячейка 4   |
+---
+## 🛠️ Languages and Tools :
+Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL EXCEL GIT API Airflow

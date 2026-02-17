@@ -17,4 +17,4 @@
 | Проект 2 Исследование нескольких аспектов мобильной игры   | Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test).   |pandas,numpy,seaborn, matplotlib,scipy,requests |
 ---
 ## 🛠️ Languages and Tools :
-Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL EXCEL GIT API Airflow
+Python Jupyter Clickhouse PostgreSQL SQL Redash EXCEL GIT API Airflow
